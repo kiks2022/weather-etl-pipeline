@@ -1,0 +1,13 @@
+================ WEATHER ANALYSIS ================
+
+Average temperature: 24.15 °C
+Average humidity:    90.33 %
+Average wind speed:  2.62 m/s
+
+Hottest city:  Port Harcourt (24.46 °C)
+Most humid:    Abuja (91 %)
+Windiest city: Port Harcourt (3.26 m/s)
+
+Weather conditions observed:
+WeatherCondition
+Rain    3

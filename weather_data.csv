@@ -1,0 +1,4 @@
+City,Country,Temperature_C,FeelsLike_C,Humidity_pct,Pressure_hPa,WeatherCondition,Description,WindSpeed_ms,Cloudiness_pct,Latitude,Longitude,Timestamp
+Abuja,NG,23.6,24.39,91,1015,Rain,light rain,1.61,81,9.0574,7.4898,2026-07-15 20:21:38.720197
+Lagos,NG,24.39,25.26,91,1016,Rain,light rain,2.99,74,6.5833,3.75,2026-07-15 20:21:38.094880
+Port Harcourt,NG,24.46,25.29,89,1016,Rain,light rain,3.26,100,4.7774,7.0134,2026-07-15 20:21:38.851907
